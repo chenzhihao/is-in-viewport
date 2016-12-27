@@ -1,0 +1,23 @@
+{
+  "name": "viewport-overlap-checker",
+  "version": "0.0.1",
+  "description": "Check if an element is In viewport, overlap with viewport or close to viewport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenzhihao/viewport-overlap-checker.git"
+  },
+  "keywords": [
+    "viewport",
+    "is in viewport",
+    "overlap",
+    "close",
+    "position",
+    "viewport checker"
+  ],
+  "author": "cabtravis@gmail.com",
+  "license": "MIT"
+}

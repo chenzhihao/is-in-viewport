@@ -33,7 +33,7 @@ const image = document.getElementById('img');
 isElementFullyInViewport(image);
 // true
 ```
-![](//i.imgur.com/JMT7ACYg.png =600x)
+![](http://i.imgur.com/JMT7ACYg.png =600x)
 
 ### Check if an element is overlap with viewport
 ```js
@@ -44,7 +44,7 @@ const image = document.getElementById('img');
 isElementPartInViewport(image);
 // true
 ```
-![](//i.imgur.com/gETmAW3.png =600x)
+![](http://i.imgur.com/gETmAW3.png =600x)
 
 ### Check if an element is close to viewport
 ```js
@@ -65,7 +65,7 @@ isElementCloseToViewport(image, {top: 10});
 // the element is in center of viewport.
 
 ```
-![](//i.imgur.com/P3x2ul7.png =600x)
+![](http://i.imgur.com/P3x2ul7.png =600x)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)

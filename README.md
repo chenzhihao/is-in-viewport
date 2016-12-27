@@ -1,13 +1,11 @@
 # viewport-overlap-checker 
 
-[![NPM](https://nodei.co/npm/easy-promise-queue.png)](https://nodei.co/npm/easy-promise-queue/)
-> Easy promise queue. Set a concurrency to execute promises in the queue.
-
-[![Build Status](https://travis-ci.org/chenzhihao/easy-promise-queue.svg)](https://travis-ci.org/chenzhihao/easy-promise-queue)
+> Check if an element is In viewport, overlap with viewport or close to viewport.
+No dependency. Super tiny.
 
 ## Installation
 ```bash
-$ npm install easy-promise-queue
+$ npm install viewport-overlap-checker
 ```
 
 ## Usage

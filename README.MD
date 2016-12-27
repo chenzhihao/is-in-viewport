@@ -13,6 +13,8 @@ $ npm install easy-promise-queue
 ## Usage
 
 ### Check if an element is totally in viewport
+![](http://i.imgur.com/JMT7ACYg.png =600x)
+
 ```js
 import {isElementFullyInViewport} from 'viewport-overlap-checker';
 
@@ -21,10 +23,11 @@ const image = document.getElementById('img');
 isElementFullyInViewport(image);
 // true
 ```
-![](//i.imgur.com/JMT7ACYg.png =600x)
  
  
 ### Check if an element is totally in viewport
+![](http://i.imgur.com/JMT7ACYg.png =600x)
+
 ```js
 import {isElementFullyInViewport} from 'viewport-overlap-checker';
 
@@ -33,9 +36,10 @@ const image = document.getElementById('img');
 isElementFullyInViewport(image);
 // true
 ```
-![](http://i.imgur.com/JMT7ACYg.png =600x)
 
 ### Check if an element is overlap with viewport
+![](http://i.imgur.com/gETmAW3.png =600x)
+
 ```js
 import {isElementPartInViewport} from 'viewport-overlap-checker';
 
@@ -44,7 +48,6 @@ const image = document.getElementById('img');
 isElementPartInViewport(image);
 // true
 ```
-![](http://i.imgur.com/gETmAW3.png =600x)
 
 ### Check if an element is close to viewport
 ```js

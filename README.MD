@@ -37,10 +37,7 @@ isElementPartInViewport(image);
 ```
 
 ### Check if an element is close to viewport
-<img src="http://i.imgur.com/P3x2ul7.png width="600">
-
-
-![]( =600x)
+<img src="http://i.imgur.com/P3x2ul7.png" width="600">
 
 ```js
 import {isElementCloseToViewport} from 'viewport-overlap-checker';

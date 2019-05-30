@@ -1,7 +1,7 @@
-# viewport-overlap-checker 
+# is-in-viewport 
 
-> Check if an element is In viewport, overlap with viewport or close to viewport.
-No dependency. Super tiny.
+> Check if an element is in viewport, overlap with viewport, or close to viewport.
+Vanilla JavaScript. No dependency. Super tiny.
 
 ## Installation
 ```bash
